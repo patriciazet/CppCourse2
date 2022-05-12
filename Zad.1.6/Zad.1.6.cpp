@@ -4,6 +4,9 @@
 // ma być pobierana od użytkownika, zaś wynik wyświetlany na ekranie. Sprawdzaj, czy użytkownik wprowadza poprawną kwotę (do grosza, powyżej zera).
 // w tablicy można um ieścić nominały, typ float bo mamy grosze
 
+
+//komentarz
+
 void howMany(float value)
 {
     //wartosc dostępnych nominałów; dopisanie f osnacza że podajemny liczbę typu float
