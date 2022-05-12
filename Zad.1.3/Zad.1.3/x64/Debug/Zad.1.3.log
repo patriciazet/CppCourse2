@@ -1,0 +1,3 @@
+﻿  Zad.1.3.cpp
+C:\_Patrycja\C++\C++ERICSSON\Kurs\2.C++_podstawyProgramowanie\Zajęcia10_05\Zad.1.3\Zad.1.3\Zad.1.3.cpp(7,9): error C2601: 'main': local function definitions are illegal
+C:\_Patrycja\C++\C++ERICSSON\Kurs\2.C++_podstawyProgramowanie\Zajęcia10_05\Zad.1.3\Zad.1.3\Zad.1.3.cpp(6): message : this line contains a '{' which has not yet been matched

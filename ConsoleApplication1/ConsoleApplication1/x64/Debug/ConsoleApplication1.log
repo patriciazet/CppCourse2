@@ -1,0 +1,22 @@
+﻿  ConsoleApplication1.cpp
+C:\_Patrycja\C++\C++ERICSSON\Kurs\2.C++_podstawyProgramowanie\Zajęcia10_05\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(9,8): error C2039: 'cout': is not a member of 'std'
+C:\_Patrycja\C++\C++ERICSSON\Kurs\2.C++_podstawyProgramowanie\Zajęcia10_05\ConsoleApplication1\ConsoleApplication1\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+C:\_Patrycja\C++\C++ERICSSON\Kurs\2.C++_podstawyProgramowanie\Zajęcia10_05\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(9,13): error C2065: 'cout': undeclared identifier
+C:\_Patrycja\C++\C++ERICSSON\Kurs\2.C++_podstawyProgramowanie\Zajęcia10_05\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(9,48): error C2039: 'endl': is not a member of 'std'
+C:\_Patrycja\C++\C++ERICSSON\Kurs\2.C++_podstawyProgramowanie\Zajęcia10_05\ConsoleApplication1\ConsoleApplication1\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+C:\_Patrycja\C++\C++ERICSSON\Kurs\2.C++_podstawyProgramowanie\Zajęcia10_05\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(9,52): error C2065: 'endl': undeclared identifier
+C:\_Patrycja\C++\C++ERICSSON\Kurs\2.C++_podstawyProgramowanie\Zajęcia10_05\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(14,8): error C2039: 'cout': is not a member of 'std'
+C:\_Patrycja\C++\C++ERICSSON\Kurs\2.C++_podstawyProgramowanie\Zajęcia10_05\ConsoleApplication1\ConsoleApplication1\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+C:\_Patrycja\C++\C++ERICSSON\Kurs\2.C++_podstawyProgramowanie\Zajęcia10_05\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(14,13): error C2065: 'cout': undeclared identifier
+C:\_Patrycja\C++\C++ERICSSON\Kurs\2.C++_podstawyProgramowanie\Zajęcia10_05\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(14,48): error C2039: 'endl': is not a member of 'std'
+C:\_Patrycja\C++\C++ERICSSON\Kurs\2.C++_podstawyProgramowanie\Zajęcia10_05\ConsoleApplication1\ConsoleApplication1\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+C:\_Patrycja\C++\C++ERICSSON\Kurs\2.C++_podstawyProgramowanie\Zajęcia10_05\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(14,52): error C2065: 'endl': undeclared identifier
+C:\_Patrycja\C++\C++ERICSSON\Kurs\2.C++_podstawyProgramowanie\Zajęcia10_05\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,8): error C2039: 'cout': is not a member of 'std'
+C:\_Patrycja\C++\C++ERICSSON\Kurs\2.C++_podstawyProgramowanie\Zajęcia10_05\ConsoleApplication1\ConsoleApplication1\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+C:\_Patrycja\C++\C++ERICSSON\Kurs\2.C++_podstawyProgramowanie\Zajęcia10_05\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,13): error C2065: 'cout': undeclared identifier
+C:\_Patrycja\C++\C++ERICSSON\Kurs\2.C++_podstawyProgramowanie\Zajęcia10_05\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,48): error C2039: 'endl': is not a member of 'std'
+C:\_Patrycja\C++\C++ERICSSON\Kurs\2.C++_podstawyProgramowanie\Zajęcia10_05\ConsoleApplication1\ConsoleApplication1\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+C:\_Patrycja\C++\C++ERICSSON\Kurs\2.C++_podstawyProgramowanie\Zajęcia10_05\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,52): error C2065: 'endl': undeclared identifier
+C:\_Patrycja\C++\C++ERICSSON\Kurs\2.C++_podstawyProgramowanie\Zajęcia10_05\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(24,8): error C2039: 'cout': is not a member of 'std'
+C:\_Patrycja\C++\C++ERICSSON\Kurs\2.C++_podstawyProgramowanie\Zajęcia10_05\ConsoleApplication1\ConsoleApplication1\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+C:\_Patrycja\C++\C++ERICSSON\Kurs\2.C++_podstawyProgramowanie\Zajęcia10_05\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(24,13): error C2065: 'cout': undeclared identifier
