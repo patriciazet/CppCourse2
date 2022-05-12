@@ -6,6 +6,7 @@
 
 
 //komentarz
+//komentarz 3
 
 void howMany(float value)
 {
